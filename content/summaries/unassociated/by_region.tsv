@@ -1,5 +1,5 @@
 region	bytes_sent
-AWS/us-east-1	1439433290253
+AWS/us-east-1	2190325574507
 US/California	150647323379
 GitHub	14806
 IT/Piedmont	527348352
@@ -10,6 +10,7 @@ US/Maryland	6357126247
 US/Texas	18293338
 US/Massachusetts	22476412
 US/Connecticut	18293338
-US/Vermont	35514267763
+US/Vermont	35515913043
 HU/Budapest	2364345
 US/New York	412276572
+GCP/us-central1	367312
