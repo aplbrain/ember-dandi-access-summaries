@@ -2,9 +2,10 @@ region	bytes_sent
 AWS/us-east-1	5127505711632
 CA/Quebec	20786204
 DE/City state Bremen	534449
-GCP/us-central1	203648904
+GCP/us-central1	204172984
 GitHub	85928
 HU/Budapest	2364345
+IT/Lazio	262040
 IT/Lombardy	237216442
 IT/Piedmont	527348352
 MX/Mexico City	183656
@@ -15,7 +16,7 @@ US/Illinois	5536752964
 US/Maryland	26272063607
 US/Massachusetts	22476412
 US/Michigan	264
-US/New York	441024324
+US/New York	457159460
 US/North Carolina	592841500
 US/Ohio	524080
 US/Pennsylvania	4875917829
