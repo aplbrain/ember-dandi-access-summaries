@@ -1,11 +1,11 @@
 asset_path	bytes_sent
-sub-NONE/frame_map.json	37865
+sub-NONE/frame_map.json	48105
 sub-NONE/annotated_frames.avi	54829859
-sub-NONE/train.pkg.slp	3896085576
-sub-NONE/train.pkg.slp.movement.analysis.h5	338087
-sub-NONE/train.pkg.slp.movement.nc	170905448
+sub-NONE/train.pkg.slp	3896095816
+sub-NONE/train.pkg.slp.movement.analysis.h5	348327
+sub-NONE/train.pkg.slp.movement.nc	170915688
 sub-NONE/sub-NONE_sourcedata.slp	26775864
 sub-NONE/sub-NONE_sourcedata.slp.TEST.h5	1043115
 sub-NONE/sub-NONE_sourcedata.slp.movement.nc	2495226
 sub-NONE/sub-NONE_sourcedata.analysis.h5	1053355
-sub-NONE/sub-NONE_sourcedata.movement.nc	2496048
+sub-NONE/sub-NONE_sourcedata.movement.nc	2506288
