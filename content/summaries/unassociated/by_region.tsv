@@ -1,6 +1,6 @@
 region	bytes_sent
 AWS/us-east-1	2190362305707
-VPN	271279491
+VPN	271648131
 US/California	150647323379
 GitHub	565785
 IT/Piedmont	4466540990
@@ -8,7 +8,7 @@ IT/Lombardy	237216442
 US/Pennsylvania	4875390877
 US/Illinois	169183814
 US/Maryland	6357126247
-US/Vermont	35657997574
+US/Vermont	50487191794
 US/Texas	18293338
 US/Massachusetts	22476412
 US/Connecticut	18293338
