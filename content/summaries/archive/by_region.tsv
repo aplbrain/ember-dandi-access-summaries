@@ -1,5 +1,5 @@
 region	bytes_sent
-AWS/us-east-1	5127646024816
+AWS/us-east-1	11970012870861
 CA/Quebec	20786204
 DE/City state Bremen	534449
 GCP/us-central1	263421752
@@ -19,9 +19,9 @@ US/Michigan	264
 US/New York	457159460
 US/North Carolina	592841500
 US/Ohio	524080
-US/Pennsylvania	4875917829
+US/Pennsylvania	4935429965
 US/Texas	18555378
-US/Vermont	65596368152
+US/Vermont	65619207608
 US/Virginia	8844108
 VPN	278259294
 bogon	4127004
