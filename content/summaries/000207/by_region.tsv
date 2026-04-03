@@ -1,6 +1,7 @@
 region	bytes_sent
+AWS/us-east-1	736448
+US/Maryland	4074400
 US/Ohio	524080
-US/Maryland	2294544
 US/Texas	262040
 GitHub	204
 US/Pennsylvania	262040
@@ -9,4 +10,3 @@ IT/Lazio	262040
 GCP/us-central1	1048160
 DE/Baden-Wurttemberg	769532
 US/California	240768
-AWS/us-east-1	240768
