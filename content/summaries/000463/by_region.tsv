@@ -1,7 +1,8 @@
 region	bytes_sent
-AWS/us-east-1	2936245304416
+AWS/us-east-1	3260472383072
 US/Vermont	15089510027
 US/Maryland	18499667422
+US/Illinois	13627762644
 GCP/us-central1	262006280
 VPN	5662720
 GitHub	8952258654
@@ -12,4 +13,3 @@ US/New York	66749892
 bogon	4127004
 US/Virginia	8843580
 DE/Baden-Wurttemberg	53360162
-US/Illinois	5367569150
