@@ -1,0 +1,11 @@
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+USA/MD	36943812	51	5	2
+USA/TX	13604855	1	1	0
+AWS/us-east-1	13604855	2	0	1
+USA/CA	27209710	2	2	0
+USA/VA	33444328	28	3	1
+USA/FL	13604855	1	1	0
+MEX/CMX	1109	3	0	1
+USA/PA	13604855	1	1	0
+USA/VT	27209710	2	2	0
+AWS/us-west-2	13604855	1	1	0

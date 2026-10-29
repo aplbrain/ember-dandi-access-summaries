@@ -1,175 +1,188 @@
+AWS/eu-central-1:
+  latitude: 50.1169
+  longitude: 8.6837
 AWS/us-east-1:
-  latitude: '39.0437'
-  longitude: '-77.4875'
+  latitude: 39.0469
+  longitude: -77.4903
 AWS/us-east-2:
   latitude: 39.9612
   longitude: -82.9988
-BO/La Paz Department:
-  latitude: -11.7773231
-  longitude: -67.4519752
-CA/Quebec:
-  latitude: 52.4760892
-  longitude: -71.8258668
-"CL/Valpara\xEDso":
-  latitude: -32.5976089
-  longitude: -70.8529753
-CN/Hainan:
-  latitude: 19.2000001
-  longitude: 109.5999999
-CN/Shanghai:
-  latitude: 31.2312707
-  longitude: 121.4700152
-CO/Huila Department:
-  latitude: 2.5359349
-  longitude: -75.5276699
-CO/Risaralda Department:
-  latitude: 5.2102948
-  longitude: -75.9842236
-"CR/San Jos\xE9":
-  latitude: 9.9325427
-  longitude: -84.0795782
-DE/Baden-Wurttemberg:
-  latitude: 48.53775
-  longitude: 9.041169
-DE/City state Bremen:
-  latitude: 53.07516
-  longitude: 8.80777
-"ES/Castille and Le\xF3n":
-  latitude: 42.0
-  longitude: -5.5
-FR/Grand Est:
-  latitude: 48.580002
-  longitude: 7.75
+AWS/us-west-2:
+  latitude: 45.8401
+  longitude: -119.705
+BRA/RS:
+  latitude: -29.7277
+  longitude: -53.656
+CAN/AB:
+  latitude: 55.2816
+  longitude: -115.0
+CAN/ON:
+  latitude: 50.5244
+  longitude: -84.7943
+CAN/QC:
+  latitude: 52.2593
+  longitude: -73.7168
+CHE/ZH:
+  latitude: 47.4297
+  longitude: 8.6609
+CHN/BJ:
+  latitude: 39.9488
+  longitude: 116.389
+CRI/SJ:
+  latitude: 9.6037
+  longitude: -84.0105
+DEU/BW:
+  latitude: 48.59
+  longitude: 9.0033
+DEU/HH:
+  latitude: 53.559
+  longitude: 10.0344
+DEU/NI:
+  latitude: 52.775
+  longitude: 8.8618
+DNK/84:
+  latitude: 55.8486
+  longitude: 12.3198
+ESP/CT:
+  latitude: 41.7259
+  longitude: 1.6968
+FRA/IDF:
+  latitude: 48.7955
+  longitude: 2.3577
+FRA/PAC:
+  latitude: 43.9214
+  longitude: 6.117
+GBR/ENG:
+  latitude: 52.4408
+  longitude: -1.263
+GBR/SCT:
+  latitude: 56.395
+  longitude: -3.7959
 GCP/us-central1:
   latitude: 41.2619
   longitude: -95.8608
+GCP/us-west4:
+  latitude: 36.175
+  longitude: -115.1372
 GitHub:
   latitude: null
   longitude: null
-HU/Budapest:
-  latitude: 47.4978789
-  longitude: 19.0402383
-IQ/Sulaymaniyah:
-  latitude: 35.5574725
-  longitude: 45.435202
-IT/Lazio:
-  latitude: 41.9808038
-  longitude: 12.7662312
-IT/Lombardy:
-  latitude: 45.5703694
-  longitude: 9.7732524
-IT/Piedmont:
-  latitude: 45.060735
-  longitude: 7.923549
-JP/Aichi:
-  latitude: 34.9991645
-  longitude: 137.254574
-JP/Ishikawa:
-  latitude: 36.9890574
-  longitude: 136.8162839
-"MO/S\xE3o Francisco Xavier":
-  latitude: 22.210928
-  longitude: 113.552971
-MX/Mexico City:
-  latitude: 19.3207722
-  longitude: -99.1514678
-"MX/M\xE9xico":
-  latitude: 19.4326296
-  longitude: -99.1331785
-NI/Managua Department:
-  latitude: 12.125
-  longitude: -86.31
-NO/Vestland:
-  latitude: 60.9291011
-  longitude: 6.1078869
-NZ/Taranaki Region:
-  latitude: -39.3848064
-  longitude: 174.1973505
-"PA/Panam\xE1":
-  latitude: 8.559559
-  longitude: -81.1308434
-"PA/Panam\xE1 Oeste Province":
-  latitude: 8.88028
-  longitude: -79.7833
-PE/Lima Province:
-  latitude: -12.5453873
-  longitude: -75.8599243
-PL/Greater Poland:
-  latitude: 52.406374
-  longitude: 16.9251681
-PL/Pomerania:
-  latitude: 53.428543
-  longitude: 14.552811
-PL/Silesia:
-  latitude: 50.6966393
-  longitude: 17.9254068
-PL/Subcarpathia:
-  latitude: 50.0575
-  longitude: 22.0896
-PR/San Juan:
-  latitude: 18.384239
-  longitude: -66.05344
-RU/Mordoviya Republic:
-  latitude: 54.5
-  longitude: 44
-RU/Rostov:
-  latitude: 57.2012699
-  longitude: 39.4221813
-SE/Stockholm:
-  latitude: 59.3251172
-  longitude: 18.0710935
-TW/Takao:
-  latitude: 22.6226696
-  longitude: 120.2764261
-US/California:
-  latitude: 36.7014631
-  longitude: -118.755997
-US/Connecticut:
-  latitude: 41.6500201
-  longitude: -72.7342163
-US/Illinois:
-  latitude: 35.1388526
-  longitude: -88.3501201
-US/Maryland:
-  latitude: 39.5162401
-  longitude: -76.9382069
-US/Massachusetts:
-  latitude: 42.3788774
-  longitude: -72.032366
-US/Michigan:
-  latitude: 43.6211955
-  longitude: -84.6824346
-US/New York:
-  latitude: 40.7127281
-  longitude: -74.0060152
-US/North Carolina:
-  latitude: 35.6729639
-  longitude: -79.0392919
-US/Ohio:
-  latitude: 40.2253569
-  longitude: -82.6881395
-US/Pennsylvania:
-  latitude: 40.9699889
-  longitude: -77.7278831
-US/Texas:
-  latitude: 31.2638905
-  longitude: -98.5456116
-US/Vermont:
-  latitude: 44.5990718
-  longitude: -72.5002608
-US/Virginia:
-  latitude: 37.1232245
-  longitude: -78.4927721
-US/Washington:
-  latitude: 38.8950368
-  longitude: -77.0365427
-UY/Montevideo Department:
-  latitude: -34.9058916
-  longitude: -56.1913095
-VN/Long An Povince:
-  latitude: 10.5607168
-  longitude: 106.6497623
+IND:
+  latitude: 22.6869
+  longitude: 79.3581
+IND/CG:
+  latitude: 22.6869
+  longitude: 79.3581
+IND/GJ:
+  latitude: 22.7501
+  longitude: 71.3013
+IND/KA:
+  latitude: 14.3681
+  longitude: 75.667
+IND/MP:
+  latitude: 22.9404
+  longitude: 78.4214
+IND/TN:
+  latitude: 11.0159
+  longitude: 78.2704
+IND/WB:
+  latitude: 23.0523
+  longitude: 87.7289
+ITA:
+  latitude: 44.7325
+  longitude: 11.0769
+ITA/88:
+  latitude: 40.1047
+  longitude: 9.0182
+LUX/LU:
+  latitude: 49.7337
+  longitude: 6.0776
+MEX: &id001
+  latitude: 23.92
+  longitude: -102.2894
+MEX/CMX: *id001
+MEX/SON:
+  latitude: 29.5293
+  longitude: -110.485
+MEX/YUC:
+  latitude: 20.663
+  longitude: -88.9836
+RUS:
+  latitude: 58.2494
+  longitude: 44.6865
+SWE:
+  latitude: 65.8592
+  longitude: 19.0171
+SWE/AB:
+  latitude: 59.3659
+  longitude: 17.8652
+USA:
+  latitude: 39.5385
+  longitude: -97.4826
+USA/CA:
+  latitude: 36.7496
+  longitude: -119.591
+USA/CT:
+  latitude: 41.6486
+  longitude: -72.7594
+USA/FL:
+  latitude: 28.1568
+  longitude: -81.6228
+USA/GA:
+  latitude: 32.8547
+  longitude: -83.4078
+USA/IL:
+  latitude: 39.946
+  longitude: -89.1991
+USA/MA:
+  latitude: 42.3739
+  longitude: -71.9993
+USA/MD:
+  latitude: 39.3874
+  longitude: -77.0454
+USA/ME:
+  latitude: 45.148
+  longitude: -69.1973
+USA/MI:
+  latitude: 43.4343
+  longitude: -84.9479
+USA/NC:
+  latitude: 35.6152
+  longitude: -78.866
+USA/NH:
+  latitude: 43.5993
+  longitude: -71.6301
+USA/NY:
+  latitude: 43.1988
+  longitude: -75.3242
+USA/OH:
+  latitude: 40.0924
+  longitude: -82.6719
+USA/PA:
+  latitude: 40.8601
+  longitude: -77.6094
+USA/TX:
+  latitude: 31.131
+  longitude: -98.7607
+USA/VA:
+  latitude: 37.7403
+  longitude: -78.2431
+USA/VT:
+  latitude: 44.0886
+  longitude: -72.7317
+USA/WA:
+  latitude: 47.4865
+  longitude: -120.361
 VPN:
+  latitude: null
+  longitude: null
+bogon:
+  latitude: null
+  longitude: null
+missing:
+  latitude: null
+  longitude: null
+undetermined:
   latitude: null
   longitude: null
 unknown:

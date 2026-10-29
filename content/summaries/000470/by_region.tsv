@@ -1,0 +1,7 @@
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-west-2	136272	13	13	0
+AWS/us-east-1	136272	13	13	0
+USA/VA	271296	24	12	12
+USA/VT	11928	2	2	0
+USA/IL	624	1	1	0
+GBR/SCT	624	1	1	0

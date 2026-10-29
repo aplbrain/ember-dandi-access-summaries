@@ -1,13 +1,13 @@
-region	bytes_sent
-AWS/us-east-1	736448
-US/Maryland	4074400
-US/Washington	698544
-US/Ohio	524080
-US/Texas	262040
-GitHub	204
-US/Pennsylvania	262040
-VPN	10240
-IT/Lazio	262040
-GCP/us-central1	1048160
-DE/Baden-Wurttemberg	769532
-US/California	240768
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+GCP/us-central1	1048160	4	4	0
+USA/MD	4074400	16	16	0
+VPN	10240	1	0	1
+DEU/BW	769532	5	1	1
+USA/TX	262040	1	1	0
+ITA/88	262040	1	1	0
+AWS/us-west-2	998488	4	4	0
+AWS/us-east-1	736448	3	3	0
+USA/VA	758512	3	3	0
+USA/WA	698544	3	3	0
+ESP/CT	2212456	13	5	2
+USA/CA	240768	1	1	0

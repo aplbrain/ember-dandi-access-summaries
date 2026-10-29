@@ -1,5 +1,8 @@
-region	bytes_sent
-AWS/us-east-1	885498814
-VPN	102400
-US/Maryland	4159012658
-GitHub	2401
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+USA/MD	888473910	11	11	0
+AWS/us-west-2	885498814	10	10	0
+USA/PA	885498814	10	10	0
+VPN	102400	10	0	10
+USA/ME	58430798	2	1	1
+CAN/ON	20635020	3	0	1
+USA/VA	4090812	14	2	2

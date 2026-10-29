@@ -1,5 +1,13 @@
-region	bytes_sent
-US/Vermont	18324560
-US/Maryland	139132753
-GitHub	2201
-AWS/us-east-1	46154631
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+DEU/BW	264	1	1	0
+USA/MD	81757447	12	12	0
+VPN	264	1	0	1
+USA/VA	32781258	5	4	1
+USA/PA	528	2	2	0
+IND/WB	264	1	1	0
+USA/MI	264	1	1	0
+AWS/us-west-2	79225975	7	7	0
+USA/CA	290264	1	1	0
+USA/OH	290264	1	1	0
+USA/MA	1522696	2	1	1
+USA/VT	37983826	28	0	2

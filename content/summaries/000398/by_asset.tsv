@@ -1,11 +1,11 @@
-asset_path	bytes_sent
-sub-NONE/frame_map.json	106450
-sub-NONE/annotated_frames.avi	109657717
-sub-NONE/train.pkg.slp	4545443412
-sub-NONE/train.pkg.slp.movement.analysis.h5	686014
-sub-NONE/train.pkg.slp.movement.nc	341821136
-sub-NONE/sub-NONE_sourcedata.slp	32726056
-sub-NONE/sub-NONE_sourcedata.slp.TEST.h5	2086230
-sub-NONE/sub-NONE_sourcedata.slp.movement.nc	4990452
-sub-NONE/sub-NONE_sourcedata.analysis.h5	2096470
-sub-NONE/sub-NONE_sourcedata.movement.nc	5002336
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+sub-NONE/sub-NONE_sourcedata.analysis.h5	3139585	4	3	1
+sub-NONE/annotated_frames.avi	243549392	8	4	2
+sub-NONE/frame_map.json	134075	8	3	5
+sub-NONE/train.pkg.slp.movement.analysis.h5	1023301	4	3	1
+sub-NONE/sub-NONE_sourcedata.slp.movement.nc	7485678	3	3	0
+sub-NONE/train.pkg.slp	1950919528	14	4	2
+sub-NONE/train.pkg.slp.movement.nc	512726584	4	3	1
+sub-NONE/sub-NONE_sourcedata.movement.nc	7498384	4	3	1
+sub-NONE/sub-NONE_sourcedata.slp.TEST.h5	3129345	3	3	0
+sub-NONE/sub-NONE_sourcedata.slp	13124696	8	5	1

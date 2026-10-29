@@ -1,7 +1,8 @@
-asset_path	bytes_sent
-sub-1/mice.mp4	62935924
-sub-1/frame_map.json	1050
-sub-1/annotated_frames.avi	3044692
-sub-1/sub-1_annotations.nwb	1451520
-sub-2/sub-2_pose_estimation.slp	45556992
-sub-2/sub-2_video.mp4	90623967
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+dataset_description.json	3960	15	14	1
+sub-2/sub-2_video.mp4	135932949	3	3	0
+sub-1/sub-1_annotations.nwb	3756765	16	10	2
+sub-1/annotated_frames.avi	7611730	5	3	2
+sub-1/frame_map.json	1400	4	4	0
+sub-2/sub-2_pose_estimation.slp	5061888	6	6	0
+sub-1/mice.mp4	163016306	32	4	2

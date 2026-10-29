@@ -1,0 +1,11 @@
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+USA/MD	11294475	28	28	0
+AWS/us-east-1	101649270	64	56	3
+AWS/us-west-2	101649270	59	59	0
+USA/VT	489275337	241	237	4
+DEU/NI	1767840	4	4	0
+ITA	9044	2	2	0
+USA/NY	9044	2	2	0
+GBR/ENG	9044	2	2	0
+GitHub	22640262	3	3	0
+VPN	8619	1	1	0

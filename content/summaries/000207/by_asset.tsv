@@ -1,3 +1,3 @@
-asset_path	bytes_sent
-sub-synthetic-pre-release-0-2/sub-synthetic-pre-release-0-2.nwb	2600928
-sub-synthetic-pre-release-0-1/sub-synthetic-pre-release-0-1.nwb	6287568
+asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+sub-synthetic-pre-release-0-1/sub-synthetic-pre-release-0-1.nwb	12004843	57	36	5
+sub-synthetic-pre-release-0-2/sub-synthetic-pre-release-0-2.nwb	4687942	23	17	2

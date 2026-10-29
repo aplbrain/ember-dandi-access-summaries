@@ -1,0 +1,9 @@
+region	bytes_sent	number_of_requests	number_of_downloads	number_of_views
+AWS/us-east-1	11171331122613	1331833	0	184
+USA/TX	101874089	79	15	6
+USA/PA	106217140	3	1	2
+AWS/us-west-2	167843605339	311	3	3
+GBR/ENG	5102639420	22	5	2
+USA/VT	137604373862	301	11	2
+GCP/us-central1	7172377	8	0	1
+IND	48232654	20	4	2
