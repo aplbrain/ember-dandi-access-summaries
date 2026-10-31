@@ -31,6 +31,9 @@ CHN/BJ:
 CRI/SJ:
   latitude: 9.6037
   longitude: -84.0105
+DEU:
+  latitude: 50.9617
+  longitude: 9.6783
 DEU/BW:
   latitude: 48.59
   longitude: 9.0033
@@ -125,6 +128,9 @@ USA/CA:
 USA/CT:
   latitude: 41.6486
   longitude: -72.7594
+USA/DC:
+  latitude: 38.8922
+  longitude: -77.0113
 USA/FL:
   latitude: 28.1568
   longitude: -81.6228

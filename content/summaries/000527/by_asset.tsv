@@ -22,7 +22,7 @@ sub-01/ses-vp8/beh/sub-01_ses-vp8_video.webm	7536164	2	2	0
 sub-01/ses-halfres/beh/sub-01_ses-halfres_video.mp4	2126764	2	2	0
 sub-01/ses-reference/beh/sub-01_ses-reference_video.mp4	7033488	4	4	0
 sub-01/ses-matroska/beh/sub-01_ses-matroska_video.json	4167	9	9	0
-sub-01/ses-av1/beh/sub-01_ses-av1_video.json	2185	5	5	0
+sub-01/ses-av1/beh/sub-01_ses-av1_video.json	3059	7	7	0
 sub-01/ses-nofaststart/beh/sub-01_ses-nofaststart_video.json	2838	6	6	0
 sub-01/ses-av1/beh/sub-01_ses-av1_video.mp4	2699156	2	2	0
 sub-01/ses-nobframes/beh/sub-01_ses-nobframes_video.mp4	3579954	3	3	0
@@ -39,7 +39,7 @@ sub-01/ses-cbr800k/beh/sub-01_ses-cbr800k_video.mp4	21585108	3	3	0
 sub-01/ses-starved150k/beh/sub-01_ses-starved150k_video.json	2754	6	6	0
 sub-01/ses-webmvp9/beh/sub-01_ses-webmvp9_video.json	3488	8	8	0
 sub-01/ses-goplong/beh/sub-01_ses-goplong_video.mp4	2350128	3	2	1
-sub-01/ses-cbr800k/beh/sub-01_ses-cbr800k_video.json	3696	8	8	0
+sub-01/ses-cbr800k/beh/sub-01_ses-cbr800k_video.json	4158	9	9	0
 sub-01/ses-nobframes/beh/sub-01_ses-nobframes_video.json	3199	7	7	0
 sub-01/ses-rotated90/beh/sub-01_ses-rotated90_video.json	2748	6	6	0
 sub-01/ses-allintra/beh/sub-01_ses-allintra_video.json	2502	6	6	0
@@ -54,7 +54,7 @@ sub-01/ses-h264high10/beh/sub-01_ses-h264high10_video.mp4	3453118	2	2	0
 sub-01/ses-original/beh/sub-01_ses-original_video.m4v	520726027	70	68	2
 sub-01/ses-avimpeg4/beh/sub-01_ses-avimpeg4_video.avi	6154824	2	2	0
 sub-01/ses-mjpeg/beh/sub-01_ses-mjpeg_video.mov	50745956	5	1	1
-dataset_description.json	396474	46	46	0
+dataset_description.json	405093	47	47	0
 sub-01/ses-h264baseline/beh/sub-01_ses-h264baseline_video.json	4383	9	9	0
 sub-01/ses-videoonly/beh/sub-01_ses-videoonly_video.json	2334	6	6	0
 sub-01/ses-vfr/beh/sub-01_ses-vfr_video.mp4	1466888	2	2	0
