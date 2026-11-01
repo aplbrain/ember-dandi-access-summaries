@@ -25,6 +25,9 @@ CAN/QC:
 CHE/ZH:
   latitude: 47.4297
   longitude: 8.6609
+CHN:
+  latitude: 32.4982
+  longitude: 106.3373
 CHN/BJ:
   latitude: 39.9488
   longitude: 116.389
@@ -97,6 +100,9 @@ ITA:
 ITA/88:
   latitude: 40.1047
   longitude: 9.0182
+JPN/23:
+  latitude: 34.9973
+  longitude: 137.214
 LUX/LU:
   latitude: 49.7337
   longitude: 6.0776
