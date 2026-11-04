@@ -31,6 +31,9 @@ CHN:
 CHN/BJ:
   latitude: 39.9488
   longitude: 116.389
+CHN/HN:
+  latitude: 27.6667
+  longitude: 111.712
 CRI/SJ:
   latitude: 9.6037
   longitude: -84.0105
@@ -97,6 +100,9 @@ IND/WB:
 ITA:
   latitude: 44.7325
   longitude: 11.0769
+ITA/34:
+  latitude: 45.5949
+  longitude: 11.8237
 ITA/88:
   latitude: 40.1047
   longitude: 9.0182
@@ -173,6 +179,9 @@ USA/OH:
 USA/PA:
   latitude: 40.8601
   longitude: -77.6094
+USA/TN:
+  latitude: 35.7514
+  longitude: -86.3415
 USA/TX:
   latitude: 31.131
   longitude: -98.7607
