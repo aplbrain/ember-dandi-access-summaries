@@ -58,7 +58,7 @@ workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/t
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/dlc-models-pytorch/iteration-0/beesAug26-trainset89shuffle1/test/inference_cfg.yaml	176	1	1	0
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/training-datasets/iteration-0/UnaugmentedDataSet_beesAug26/Documentation_data-bees_89shuffle1.pickle	396263	1	1	0
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/dlc-models-pytorch/iteration-0/beesAug26-trainset89shuffle1/train/learning_stats.csv	254	1	1	0
-workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_training_run.json	768	1	1	0
+workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_training_run.json	2304	3	3	0
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/training-datasets/iteration-0/UnaugmentedDataSet_beesAug26/metadata.yaml	243	1	1	0
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/config.yaml	1768	1	1	0
 workflow-results/20261023T195506Z-bd5f564ec9f54beba0460afd41e1c05a/dlc_project/training-datasets/iteration-0/UnaugmentedDataSet_beesAug26/CollectedData_EMBER.csv	966323	1	1	0
@@ -129,7 +129,7 @@ bees/labeled-data/bees_train/img_000265_frame_00140924.png	19556572	14	14	0
 bees/labeled-data/bees_val/img_000072_frame_00038916.png	20146322	14	14	0
 bees/labeled-data/bees_train/img_000109_frame_00179113.png	18970868	14	14	0
 bees/labeled-data/bees_train/img_000596_frame_00119958.png	19045068	14	14	0
-bees/labeled-data/bees_train/img_000048_frame_00039999.png	16495612	14	14	0
+bees/labeled-data/bees_train/img_000048_frame_00039999.png	20013770	18	16	1
 bees/labeled-data/bees_train/img_000600_frame_00076135.png	19619502	14	14	0
 bees/labeled-data/bees_train/img_000442_frame_00079972.png	19139666	14	14	0
 bees/labeled-data/bees_train/img_000462_frame_00088706.png	16490390	14	14	0
@@ -433,7 +433,7 @@ bees/labeled-data/bees_train/img_000354_frame_00022088.png	13665960	14	14	0
 bees/labeled-data/bees_train/img_000626_frame_00122518.png	18955986	14	14	0
 bees/labeled-data/bees_train/img_000174_frame_00112811.png	14720426	14	14	0
 bees/labeled-data/bees_val/img_000015_frame_00087247.png	16448656	14	14	0
-bees/labeled-data/bees_train/img_000014_frame_00008162.png	15081220	14	14	0
+bees/labeled-data/bees_train/img_000014_frame_00008162.png	18296294	18	16	1
 bees/labeled-data/bees_train/img_000177_frame_00071466.png	19194770	14	14	0
 bees/labeled-data/bees_val/img_000006_frame_00086640.png	14950922	14	14	0
 bees/labeled-data/bees_train/img_000529_frame_00099965.png	19730718	14	14	0
@@ -475,7 +475,7 @@ bees/labeled-data/bees_train/img_000067_frame_00100547.png	18819892	14	14	0
 bees/labeled-data/bees_train/img_000084_frame_00071467.png	19189142	14	14	0
 bees/labeled-data/bees_train/img_000351_frame_00061464.png	19243966	14	14	0
 bees/labeled-data/bees_train/img_000040_frame_00096636.png	16490824	14	14	0
-bees/labeled-data/bees_train/img_000151_frame_00116308.png	14544740	14	14	0
+bees/labeled-data/bees_train/img_000151_frame_00116308.png	17644854	18	16	1
 bees/labeled-data/bees_val/img_000032_frame_00047907.png	19160960	14	14	0
 bees/labeled-data/bees_train/img_000221_frame_00138644.png	16587032	14	14	0
 bees/labeled-data/bees_train/img_000639_frame_00050099.png	19590242	14	14	0
@@ -553,7 +553,7 @@ bees/labeled-data/bees_val/img_000011_frame_00036774.png	16397878	14	14	0
 bees/labeled-data/bees_train/img_000211_frame_00011240.png	20253030	15	15	0
 bees/labeled-data/bees_train/img_000591_frame_00064359.png	19214986	14	14	0
 bees/labeled-data/bees_train/img_000437_frame_00110086.png	16597868	14	14	0
-bees/labeled-data/bees_train/img_000003_frame_00084869.png	16462404	14	14	0
+bees/labeled-data/bees_train/img_000003_frame_00084869.png	19973446	18	16	1
 bees/labeled-data/bees_train/img_000594_frame_00062161.png	16397234	14	14	0
 bees/labeled-data/bees_train/img_000169_frame_00088939.png	16425948	14	14	0
 bees/labeled-data/bees_train/img_000617_frame_00031512.png	13572748	14	14	0

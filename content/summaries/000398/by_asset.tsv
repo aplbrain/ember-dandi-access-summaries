@@ -1,7 +1,7 @@
 asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 sub-NONE/sub-NONE_sourcedata.analysis.h5	3139585	4	3	1
 sub-NONE/annotated_frames.avi	243549392	8	4	2
-sub-NONE/frame_map.json	134075	8	3	5
+sub-NONE/frame_map.json	216950	11	6	5
 sub-NONE/train.pkg.slp.movement.analysis.h5	1023301	4	3	1
 sub-NONE/sub-NONE_sourcedata.slp.movement.nc	7485678	3	3	0
 sub-NONE/train.pkg.slp	1950919528	14	4	2

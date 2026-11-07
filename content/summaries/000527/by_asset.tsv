@@ -54,7 +54,7 @@ sub-01/ses-h264high10/beh/sub-01_ses-h264high10_video.mp4	3453118	2	2	0
 sub-01/ses-original/beh/sub-01_ses-original_video.m4v	520726027	70	68	2
 sub-01/ses-avimpeg4/beh/sub-01_ses-avimpeg4_video.avi	6154824	2	2	0
 sub-01/ses-mjpeg/beh/sub-01_ses-mjpeg_video.mov	50745956	5	1	1
-dataset_description.json	413712	48	48	0
+dataset_description.json	439569	51	51	0
 sub-01/ses-h264baseline/beh/sub-01_ses-h264baseline_video.json	4383	9	9	0
 sub-01/ses-videoonly/beh/sub-01_ses-videoonly_video.json	2334	6	6	0
 sub-01/ses-vfr/beh/sub-01_ses-vfr_video.mp4	1466888	2	2	0
