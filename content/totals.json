@@ -9,12 +9,12 @@
     "total_number_of_views": 9
   },
   "000265": {
-    "number_of_requesters": 22,
+    "number_of_requesters": 23,
     "number_of_unique_countries": 3,
     "number_of_unique_regions": 12,
-    "total_bytes_sent": 315386226,
-    "total_number_of_downloads": 48,
-    "total_number_of_requests": 85,
+    "total_bytes_sent": 315386754,
+    "total_number_of_downloads": 50,
+    "total_number_of_requests": 87,
     "total_number_of_views": 7
   },
   "000398": {
@@ -84,10 +84,10 @@
     "number_of_requesters": 119,
     "number_of_unique_countries": 7,
     "number_of_unique_regions": 26,
-    "total_bytes_sent": 863182537047,
+    "total_bytes_sent": 863400633691,
     "total_number_of_downloads": 27,
-    "total_number_of_requests": 16442,
-    "total_number_of_views": 135
+    "total_number_of_requests": 16448,
+    "total_number_of_views": 137
   },
   "000479": {
     "number_of_requesters": 17,
@@ -99,12 +99,12 @@
     "total_number_of_views": 9
   },
   "000527": {
-    "number_of_requesters": 15,
-    "number_of_unique_countries": 3,
-    "number_of_unique_regions": 10,
-    "total_bytes_sent": 780497714,
-    "total_number_of_downloads": 419,
-    "total_number_of_requests": 436,
+    "number_of_requesters": 16,
+    "number_of_unique_countries": 4,
+    "number_of_unique_regions": 13,
+    "total_bytes_sent": 788053512,
+    "total_number_of_downloads": 422,
+    "total_number_of_requests": 439,
     "total_number_of_views": 11
   },
   "000532": {
@@ -135,21 +135,21 @@
     "total_number_of_views": 0
   },
   "000564": {
-    "number_of_requesters": 119,
+    "number_of_requesters": 133,
     "number_of_unique_countries": 10,
-    "number_of_unique_regions": 21,
-    "total_bytes_sent": 2308825048511,
-    "total_number_of_downloads": 32563,
-    "total_number_of_requests": 64050,
-    "total_number_of_views": 2675
+    "number_of_unique_regions": 32,
+    "total_bytes_sent": 2326077786282,
+    "total_number_of_downloads": 33633,
+    "total_number_of_requests": 67309,
+    "total_number_of_views": 3353
   },
   "000598": {
-    "number_of_requesters": 17,
+    "number_of_requesters": 24,
     "number_of_unique_countries": 0,
     "number_of_unique_regions": 0,
-    "total_bytes_sent": 12912415094,
-    "total_number_of_downloads": 10200,
-    "total_number_of_requests": 10224,
+    "total_bytes_sent": 19187876862,
+    "total_number_of_downloads": 14952,
+    "total_number_of_requests": 14976,
     "total_number_of_views": 5
   },
   "000607": {

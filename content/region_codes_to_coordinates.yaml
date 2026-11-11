@@ -70,9 +70,21 @@ GBR/ENG:
 GBR/SCT:
   latitude: 56.395
   longitude: -3.7959
+GCP/asia-southeast1:
+  latitude: 1.2872
+  longitude: 103.8507
+GCP/europe-west4:
+  latitude: 53.2222
+  longitude: 6.5664
 GCP/us-central1:
   latitude: 41.2619
   longitude: -95.8608
+GCP/us-east5:
+  latitude: 39.9587
+  longitude: -82.9987
+GCP/us-west1:
+  latitude: 45.5999
+  longitude: -121.1871
 GCP/us-west4:
   latitude: 36.175
   longitude: -115.1372
@@ -115,6 +127,9 @@ JPN/23:
 LUX/LU:
   latitude: 49.7337
   longitude: 6.0776
+MAC:
+  latitude: 22.1297
+  longitude: 113.556
 MEX: &id001
   latitude: 23.92
   longitude: -102.2894
@@ -140,6 +155,9 @@ USA:
 USA/CA:
   latitude: 36.7496
   longitude: -119.591
+USA/CO:
+  latitude: 38.9998
+  longitude: -105.543
 USA/CT:
   latitude: 41.6486
   longitude: -72.7594

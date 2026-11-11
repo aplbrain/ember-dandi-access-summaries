@@ -33,7 +33,7 @@ sub-01/ses-ffv1lossless/beh/sub-01_ses-ffv1lossless_video.mkv	39817182	4	2	1
 sub-01/ses-vp8/beh/sub-01_ses-vp8_video.json	2040	5	5	0
 sub-01/ses-mjpeg/beh/sub-01_ses-mjpeg_video.json	2155	5	5	0
 sub-01/ses-avimpeg4/beh/sub-01_ses-avimpeg4_video.json	1965	5	5	0
-sub-01/ses-original/beh/sub-01_ses-original_video.json	19125	45	45	0
+sub-01/ses-original/beh/sub-01_ses-original_video.json	19550	46	46	0
 sub-01/ses-rotated90/beh/sub-01_ses-rotated90_video.mp4	3516830	2	2	0
 sub-01/ses-cbr800k/beh/sub-01_ses-cbr800k_video.mp4	28780144	4	4	0
 sub-01/ses-starved150k/beh/sub-01_ses-starved150k_video.json	2754	6	6	0
@@ -51,10 +51,10 @@ sub-01/ses-richtags/beh/sub-01_ses-richtags_video.json	2891	7	7	0
 sub-01/ses-fragmented/beh/sub-01_ses-fragmented_video.json	2652	6	6	0
 sub-01/ses-starved150k/beh/sub-01_ses-starved150k_video.mp4	4070382	2	2	0
 sub-01/ses-h264high10/beh/sub-01_ses-h264high10_video.mp4	3453118	2	2	0
-sub-01/ses-original/beh/sub-01_ses-original_video.m4v	520726027	70	68	2
+sub-01/ses-original/beh/sub-01_ses-original_video.m4v	528272781	71	69	2
 sub-01/ses-avimpeg4/beh/sub-01_ses-avimpeg4_video.avi	6154824	2	2	0
 sub-01/ses-mjpeg/beh/sub-01_ses-mjpeg_video.mov	50745956	5	1	1
-dataset_description.json	439569	51	51	0
+dataset_description.json	448188	52	52	0
 sub-01/ses-h264baseline/beh/sub-01_ses-h264baseline_video.json	4383	9	9	0
 sub-01/ses-videoonly/beh/sub-01_ses-videoonly_video.json	2334	6	6	0
 sub-01/ses-vfr/beh/sub-01_ses-vfr_video.mp4	1466888	2	2	0
