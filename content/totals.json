@@ -1,12 +1,12 @@
 {
   "000207": {
-    "number_of_requesters": 23,
+    "number_of_requesters": 24,
     "number_of_unique_countries": 7,
     "number_of_unique_regions": 16,
-    "total_bytes_sent": 19791343,
-    "total_number_of_downloads": 60,
-    "total_number_of_requests": 99,
-    "total_number_of_views": 9
+    "total_bytes_sent": 20706098,
+    "total_number_of_downloads": 62,
+    "total_number_of_requests": 105,
+    "total_number_of_views": 10
   },
   "000265": {
     "number_of_requesters": 23,
@@ -36,13 +36,13 @@
     "total_number_of_views": 1125
   },
   "000465": {
-    "number_of_requesters": 88,
+    "number_of_requesters": 117,
     "number_of_unique_countries": 8,
     "number_of_unique_regions": 30,
-    "total_bytes_sent": 43873827161199,
+    "total_bytes_sent": 43880921986782,
     "total_number_of_downloads": 369,
-    "total_number_of_requests": 1677319,
-    "total_number_of_views": 367
+    "total_number_of_requests": 1677464,
+    "total_number_of_views": 417
   },
   "000466": {
     "number_of_requesters": 12,
@@ -90,22 +90,22 @@
     "total_number_of_views": 137
   },
   "000479": {
-    "number_of_requesters": 17,
+    "number_of_requesters": 18,
     "number_of_unique_countries": 2,
     "number_of_unique_regions": 10,
-    "total_bytes_sent": 442986814,
-    "total_number_of_downloads": 40,
-    "total_number_of_requests": 322,
-    "total_number_of_views": 9
+    "total_bytes_sent": 470240786,
+    "total_number_of_downloads": 43,
+    "total_number_of_requests": 376,
+    "total_number_of_views": 10
   },
   "000527": {
-    "number_of_requesters": 16,
+    "number_of_requesters": 17,
     "number_of_unique_countries": 4,
     "number_of_unique_regions": 13,
-    "total_bytes_sent": 788053512,
-    "total_number_of_downloads": 422,
-    "total_number_of_requests": 439,
-    "total_number_of_views": 11
+    "total_bytes_sent": 788082103,
+    "total_number_of_downloads": 430,
+    "total_number_of_requests": 449,
+    "total_number_of_views": 12
   },
   "000532": {
     "number_of_requesters": 25,
@@ -135,21 +135,21 @@
     "total_number_of_views": 0
   },
   "000564": {
-    "number_of_requesters": 133,
-    "number_of_unique_countries": 10,
-    "number_of_unique_regions": 32,
-    "total_bytes_sent": 2326077786282,
-    "total_number_of_downloads": 33633,
-    "total_number_of_requests": 67309,
-    "total_number_of_views": 3353
+    "number_of_requesters": 138,
+    "number_of_unique_countries": 11,
+    "number_of_unique_regions": 33,
+    "total_bytes_sent": 2326934693763,
+    "total_number_of_downloads": 33753,
+    "total_number_of_requests": 67438,
+    "total_number_of_views": 3355
   },
   "000598": {
-    "number_of_requesters": 24,
+    "number_of_requesters": 25,
     "number_of_unique_countries": 0,
     "number_of_unique_regions": 0,
-    "total_bytes_sent": 19187876862,
-    "total_number_of_downloads": 14952,
-    "total_number_of_requests": 14976,
+    "total_bytes_sent": 19187885336,
+    "total_number_of_downloads": 14954,
+    "total_number_of_requests": 14978,
     "total_number_of_views": 5
   },
   "000607": {
@@ -160,6 +160,15 @@
     "total_number_of_downloads": 18,
     "total_number_of_requests": 18,
     "total_number_of_views": 0
+  },
+  "000632": {
+    "number_of_requesters": 4,
+    "number_of_unique_countries": 0,
+    "number_of_unique_regions": 0,
+    "total_bytes_sent": 530942312890,
+    "total_number_of_downloads": 8,
+    "total_number_of_requests": 63316,
+    "total_number_of_views": 17
   },
   "undetermined": {
     "number_of_requesters": 372,

@@ -15,7 +15,7 @@ sub-01/ses-gopshort/beh/sub-01_ses-gopshort_video.mp4	4311374	2	2	0
 sub-01/ses-h264baseline/beh/sub-01_ses-h264baseline_video.mp4	8972248	4	4	0
 sub-01/ses-allintra/beh/sub-01_ses-allintra_video.mp4	43248440	6	1	3
 sub-01/ses-quicktime/beh/sub-01_ses-quicktime_video.json	5137	11	11	0
-sub-01/ses-bframes8/beh/sub-01_ses-bframes8_video.json	2325	5	5	0
+sub-01/ses-bframes8/beh/sub-01_ses-bframes8_video.json	3720	8	8	0
 sub-01/ses-matroska/beh/sub-01_ses-matroska_video.mkv	5169276	3	2	1
 sub-01/ses-fragmented/beh/sub-01_ses-fragmented_video.mp4	3446128	2	2	0
 sub-01/ses-vp8/beh/sub-01_ses-vp8_video.webm	7536164	2	2	0
@@ -26,7 +26,7 @@ sub-01/ses-av1/beh/sub-01_ses-av1_video.json	3496	8	8	0
 sub-01/ses-nofaststart/beh/sub-01_ses-nofaststart_video.json	3311	7	7	0
 sub-01/ses-av1/beh/sub-01_ses-av1_video.mp4	4048734	3	3	0
 sub-01/ses-nobframes/beh/sub-01_ses-nobframes_video.mp4	3579954	3	3	0
-sub-01/ses-h264high444/beh/sub-01_ses-h264high444_video.json	3143	7	7	0
+sub-01/ses-h264high444/beh/sub-01_ses-h264high444_video.json	4041	9	9	0
 sub-01/ses-webmvp9/beh/sub-01_ses-webmvp9_video.webm	2401248	2	2	0
 sub-01/ses-nofaststart/beh/sub-01_ses-nofaststart_video.mp4	5275236	3	3	0
 sub-01/ses-ffv1lossless/beh/sub-01_ses-ffv1lossless_video.mkv	39817182	4	2	1
@@ -54,7 +54,7 @@ sub-01/ses-h264high10/beh/sub-01_ses-h264high10_video.mp4	3453118	2	2	0
 sub-01/ses-original/beh/sub-01_ses-original_video.m4v	528272781	71	69	2
 sub-01/ses-avimpeg4/beh/sub-01_ses-avimpeg4_video.avi	6154824	2	2	0
 sub-01/ses-mjpeg/beh/sub-01_ses-mjpeg_video.mov	50745956	5	1	1
-dataset_description.json	448188	52	52	0
+dataset_description.json	474486	57	55	1
 sub-01/ses-h264baseline/beh/sub-01_ses-h264baseline_video.json	4383	9	9	0
 sub-01/ses-videoonly/beh/sub-01_ses-videoonly_video.json	2334	6	6	0
 sub-01/ses-vfr/beh/sub-01_ses-vfr_video.mp4	1466888	2	2	0

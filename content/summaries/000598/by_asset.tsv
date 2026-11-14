@@ -764,7 +764,7 @@ bees_test/CollectedData_EMBER.h5	300436	4	4	0
 bees_test/img_000011_frame_00103490.png	4676796	4	4	0
 bees_test/img_000050_frame_00160960.png	5445048	4	4	0
 bees_test/img_000037_frame_00143935.png	5441396	4	4	0
-inference-results/20261109T221400Z-c96a140ff97043d587d16d658f1b3306/ember_test/evaluation.json	4237	1	1	0
+inference-results/20261109T221400Z-c96a140ff97043d587d16d658f1b3306/ember_test/evaluation.json	12711	3	3	0
 bees_test/img_000024_frame_00176542.png	4669024	4	4	0
 bees_test/img_000046_frame_00164614.png	5520052	4	4	0
 bees_test/img_000043_frame_00102647.png	4714832	4	4	0
