@@ -115,6 +115,9 @@ IND/TN:
 IND/WB:
   latitude: 23.0523
   longitude: 87.7289
+ISL/1:
+  latitude: 64.2277
+  longitude: -21.536
 ITA:
   latitude: 44.7325
   longitude: 11.0769
@@ -143,6 +146,9 @@ MEX/SON:
 MEX/YUC:
   latitude: 20.663
   longitude: -88.9836
+NLD/GE:
+  latitude: 52.0635
+  longitude: 5.96
 RUS:
   latitude: 58.2494
   longitude: 44.6865
