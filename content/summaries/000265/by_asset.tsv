@@ -2,7 +2,7 @@ asset_path	bytes_sent	number_of_requests	number_of_downloads	number_of_views
 dataset_description.json	5016	19	18	1
 sub-2/sub-2_video.mp4	135932949	3	3	0
 sub-1/sub-1_annotations.nwb	3756765	16	10	2
-sub-1/annotated_frames.avi	10656426	11	4	3
+sub-1/annotated_frames.avi	10656429	14	4	3
 sub-1/frame_map.json	2100	6	6	0
 sub-2/sub-2_pose_estimation.slp	5061888	6	6	0
 sub-1/mice.mp4	208163266	35	5	3

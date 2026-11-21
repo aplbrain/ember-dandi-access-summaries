@@ -46,6 +46,9 @@ DEU:
 DEU/BW:
   latitude: 48.59
   longitude: 9.0033
+DEU/BY:
+  latitude: 49.0056
+  longitude: 11.3966
 DEU/HH:
   latitude: 53.559
   longitude: 10.0344
@@ -55,6 +58,9 @@ DEU/NI:
 DNK/84:
   latitude: 55.8486
   longitude: 12.3198
+ESP/AN:
+  latitude: 37.3445
+  longitude: -4.6004
 ESP/CT:
   latitude: 41.7259
   longitude: 1.6968
