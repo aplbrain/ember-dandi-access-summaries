@@ -1,9 +1,9 @@
 {
-  "number_of_requesters": 948,
+  "number_of_requesters": 963,
   "number_of_unique_countries": 22,
-  "number_of_unique_regions": 78,
-  "total_bytes_sent": 178316727939053,
-  "total_number_of_downloads": 229741,
-  "total_number_of_requests": 12281794,
-  "total_number_of_views": 142421
+  "number_of_unique_regions": 79,
+  "total_bytes_sent": 178593464497726,
+  "total_number_of_downloads": 231168,
+  "total_number_of_requests": 12325235,
+  "total_number_of_views": 143769
 }
